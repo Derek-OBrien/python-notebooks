@@ -1,0 +1,7 @@
+# requirements.txt
+huggingface-hub==0.13.3
+langchain==0.0.209
+llama-index==0.6.31
+torch==2.0.0
+transformers==4.27.4
+chromadb==0.4.5
